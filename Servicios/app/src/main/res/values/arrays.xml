@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_entries">
+        <item>@string/_entry_a</item>
+        <item>@string/_entry_b</item>
+        <item>@string/_entry_ass</item>
+    </string-array>
+
+    <string-array name="pref_keys">
+        <item>@string/_entry_value</item>
+        <item>@string/_entry_name</item>
+        <item>@string/_entry_dos</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical" >
+
+ 
+
+    <Button
+        android:id="@+id/buttonSignIN"
+        android:layout_width="248dp"
+        android:layout_height="wrap_content"
+         android:text="Ingresar"
+         android:onClick="signIn"/>
+
+    <Button
+        android:id="@+id/buttonSignUP"
+        android:layout_width="244dp"
+        android:layout_height="wrap_content"
+        android:text="Crear una cuenta" />
+
+</LinearLayout><!-- From: file:/C:/Users/ariel/AndroidStudioProjects/vamos44/Login1/app/src/main/res/layout/main.xml -->
